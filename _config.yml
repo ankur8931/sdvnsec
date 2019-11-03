@@ -1,0 +1,15 @@
+title: Software-Defined Virtual Network Security
+description: From Theory to Practice.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
+home:
+  url: index.html
+teaching:
+  url: teaching.html
+labs:
+  url: labs.html
+authors:
+  url: authors.html
+research:
+  url: research.html
